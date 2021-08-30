@@ -1,6 +1,6 @@
 # Database-Design
 Instruction open this file in draw.io
-1. In the upper-right corner of any page, click your profile photo, then click Settings.
+1. In the upper-right corner of GitHub page, click your profile photo, then click Settings.
 2. In the left sidebar, click Applications.
 3. Click the Authorized OAuth Apps tab.
 4. In the list of applications, click the name of the OAuth App (Draw.io) you'd like to request access for.
